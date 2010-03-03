@@ -1,6 +1,7 @@
-#!/usr/bin/env narwhal
+#!/usr/bin/env node
 
-var JAKE = require("jake");
-var SYSTEM = require("system");
+var SEED = require('seed');
+var JAKE = SEED.require("jake");
+var SYSTEM = SEED.require("narwhal-shim:system");
 
 JAKE.application().run({ args : SYSTEM.args });
