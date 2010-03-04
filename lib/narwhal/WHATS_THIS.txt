@@ -1,2 +1,0 @@
-Jake was originally written for narwhal.  The modules in this directory 
-implement the portions of the narwhal API that are used by jake.
