@@ -5,7 +5,7 @@
         "Tom Robinson (http://tlrobinson.net/) <tom@280north.com>"
     ],
     "description": "A build system for CommonJS, lifted from Rake",
-    "dependencies": { "narwhal-shim": "1.1" },
+    "dependencies": { "narwhal-shim": "1.2" },
     "keywords": [
         "build",
         "jake",
